@@ -8,7 +8,7 @@ The heart icon shows if this movie is favorite or not (filled heart = favorite  
 
 <b>2) Search Page</b>
 
-You can click on the dropdown list and then click on a movie from the list to change the background and show a toast with its title.
+You can click on the dropdown list and then click on a movie from the list to change the background with the movie's image
 
 <b>3) Login Page</b>
 
