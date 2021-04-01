@@ -15,6 +15,6 @@ You can click on the dropdown list and then click on a movie from the list to ch
 Wrong or Empy editviews for password and username will give error sign and error message.
 
 
-<b>3) Home Page</b>
+<b>4) Home Page</b>
 
 Home page is the popular movies page(tab) , i just named it home
